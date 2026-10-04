@@ -5,7 +5,7 @@
 
 ## About
 
-In this lab, We will build a system for a client that wants an AirBnb type application called Open House. 
+In this lab you will practice all the basic React syntax you saw today
 
 ## Content
 
