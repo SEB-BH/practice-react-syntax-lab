@@ -52,7 +52,7 @@
 * Create a functional component inside that returns jsx
 * Paste the following variable in the component:
 ```jsx
-const students = ['Ahmad','Ali','Malak','Fatema','Ammar','Zainab','Raghad','Sayed Hamed']
+const students = ['Ahmad','Ali','Husna','Abdullah','Sarah','Zainab','Raghad','Sayed Hamed']
 ```
 * Now what you should do is use .map() to show all the names of the students on the page inside of a `<ul></ul>`.
 * Now export the component and import it in the `App.jsx` and then render it under the buttons.
